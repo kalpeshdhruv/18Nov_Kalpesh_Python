@@ -6,3 +6,7 @@ git push -u origin master
 
 git config --global user.email "kalpeshdhruv74@gmail.com"
 git config --global user.name "kalpeshdhruv"
+
+
+* after above set up 3 command should be write from command file vs code or command line
+
