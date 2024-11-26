@@ -1,6 +1,8 @@
 git init
-git add README.md
+git add .
 git commit -m "first commit"
-git branch -M main
 git remote add origin https://github.com/kalpeshdhruv/18Nov_Kalpesh_Python.git
-git push -u origin main
+git push -u origin master
+
+git config --global user.email "kalpeshdhruv74@gmail.com"
+git config --global user.name "kalpeshdhruv"
